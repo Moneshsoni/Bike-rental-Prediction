@@ -1,4 +1,4 @@
-# Data science Project Bike-rental-Prediction
+# Data science Project Count Bike-rental-Prediction
 Bike rental count prediction in based on environmental or seasonal 
 Problem statement -     The objective of this Case is to Predication of bike rental count on daily based on the environmental and seasonal settings.
 The details of data attributes in the dataset are as follows -  
